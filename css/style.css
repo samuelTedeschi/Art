@@ -1,0 +1,18 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+.contener{
+    display: flex;
+    justify-content: space-between;
+}
+
+.titulo_principal{
+    font-size: 48px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+}
+
+.numeros{
+    display: flex;
+}
