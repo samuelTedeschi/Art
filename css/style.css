@@ -70,18 +70,69 @@ body{
     margin-top: 128px;
 }
 
-.imgs{
-    margin-left: 80px;
+.img-a{
+    margin-right: 54px;
 }
 
-.confira{
-    margin-right: 80px;
+.conteudo{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 80px;
 
 }
+
 .titulo_confira{
     color: #0C0C0C;
     font-family: 'Inter', sans-serif;
     font-weight: 500;
     font-size: 40px;
+    margin-left: 70px;
     
+}
+
+.botao_vm{
+    margin-top: 32px;
+    margin-left: 70px;
+    padding: 8px 48px;
+    background:#3772FF;
+    color: white;
+    border-style: none;
+    border-radius: 4px;
+}
+
+.titulo_art{
+    margin-top: 32px;
+    margin-left: 80px;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+}
+
+.imgs{
+    margin-top: 40px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.rodape{
+    display: flex;
+    justify-content: space-between;
+    margin: 80px;
+}
+
+.lista{
+    display: flex;
+}
+
+.conteudo_nav{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+    margin-right: 57px;
+}
+.conteudo_nav_f{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+   
 }
